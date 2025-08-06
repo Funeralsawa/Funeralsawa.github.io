@@ -1,0 +1,20 @@
+.recent-post-item {
+    color: wheat !important;
+    background: rgba(0, 0, 0, 0.2) !important; /* 黑色半透明 */
+    backdrop-filter: blur(2px) !important;
+    -webkit-backdrop-filter: blur(2px) !important;
+}
+
+.article-title {
+    color: wheat !important;
+}
+
+#footer {
+    background-color: rgba(255, 255, 255, 0) !important;
+}
+
+.card-widget {
+    background: rgba(0, 0, 0, 0.2) !important; /* 黑色半透明 */
+    backdrop-filter: blur(2px) !important;
+    -webkit-backdrop-filter: blur(2px) !important;
+}
