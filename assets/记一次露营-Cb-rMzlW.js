@@ -1,4 +1,12 @@
-const n=`# 301 记录-01\r
+const n=`---\r
+# 可以选择的标签有：全部，IT，生活，学习，旅行，梦话，其他\r
+TAGS: [生活]\r
+AUTHOR:\r
+TITLE:\r
+ABSTRACT:\r
+IMG:\r
+---\r
+# 301 记录-01\r
 \r
 ## 逃离宿舍与小伙伴去露营了XDD\r
 \r
