@@ -1,9 +1,9 @@
 const n=`---\r
 # 可以选择的标签有：全部，IT，生活，学习，旅行，梦话，其他\r
 TAGS: [其他]\r
-AUTHOR:\r
-TITLE:\r
-ABSTRACT:\r
+AUTHOR: Funerals\r
+TITLE: 测试\r
+ABSTRACT: MD解析测试\r
 IMG:\r
 ---\r
 \r
